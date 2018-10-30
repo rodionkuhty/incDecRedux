@@ -1,2 +1,0 @@
-# incDecRedux
-Created with CodeSandbox
